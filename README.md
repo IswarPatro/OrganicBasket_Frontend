@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Tech Stack Details
 
-In the project directory, you can run:
+I used React as a Frontend Library, Bootstrap as a Frontend Framework and context-api for state management.
 
 ### `npm start`
 
